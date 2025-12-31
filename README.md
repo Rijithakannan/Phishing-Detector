@@ -32,7 +32,7 @@ The system extracts specific features from a URL that are common in phishing att
 └── README.md           # Project documentation
 🔧 Installation & Local Setup
 Clone the repository:
-
+https://github.com/Rijithakannan/Phishing-Detector.git
 Install dependencies:
 pip install -r requirements.txt
 Run the application:
